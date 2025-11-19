@@ -1,5 +1,5 @@
 {
-  "name": "@frida/uglifyify",
+  "name": "@ainakan/uglifyify",
   "version": "7.0.1",
   "description": "A browserify transform which minifies your code using terser",
   "main": "index.js",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/frida/uglifyify.git"
+    "url": "git://github.com/ainakan/uglifyify.git"
   },
   "keywords": [
     "uglify",
